@@ -1,0 +1,49 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    background-color: #084C61
+}
+
+h3 {
+    margin-top: 10px;
+    color: orange;
+    font-family: 'Lobster', cursive;
+}
+.card {
+    background-color: #DDEDAA;
+    width: 100%;
+}
+.carousel{
+    -webkit-box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+}
+.card-img img {
+    width: 200px;
+}
+.card:hover {
+    transform:scale(1.02);
+    transition: 2s;
+    -webkit-box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+}
+.navbar{
+background-color: #E3B505;
+-webkit-box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+box-shadow: -1px 10px 32px -3px rgba(0,0,0,0.75);
+}
+.navbar-brand {
+    font-family: 'Dokdo', cursive !important;
+    font-size: 35px;
+    color: #084C61 !important;
+}
+.navbar a {
+    color: #084C61 !important
+}
+h1{
+    color: #E3B505;
+    font-family: 'Lobster', cursive;
+    font-size: 50px !important
+}
